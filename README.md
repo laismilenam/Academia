@@ -17,4 +17,4 @@ Para começar a usar este projeto, siga as etapas abaixo:
 1. **Clone o Repositório**
 
    ```bash
-   git clone 
+   git clone https://github.com/laismilenam/Academia_Accenture2024
